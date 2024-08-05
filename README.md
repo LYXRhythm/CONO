@@ -62,6 +62,11 @@ In the study of ablation experiments, the important role of each component is ve
 
 ![2](https://github.com/user-attachments/assets/72a2deb4-011a-4c37-a2dd-6dd72c0d9d6b)
 
+At the same time, we compared the three mainstream clustering methods, and finally chose K-means to be more advantageous. The data of the three clustering methods on the office31 dataset is shown below.
+
+![9](https://github.com/user-attachments/assets/3d8f5739-8860-4449-8f4b-fd5436da629f)
+
+
 ### Example of Retrievals
 In this Table, we present a comparison between the UCRP method and the CoDA method, showcasing their respective retrieval capabilities using examples from the OfficeHome dataset. This comparison aims to underscore the reliability and superiority of our approach in cross-domain image retrieval. For instance, consider a scenario where we retrieve an image of a pen from the Art domain and search for similar images.
 
